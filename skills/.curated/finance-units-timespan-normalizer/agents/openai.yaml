@@ -1,0 +1,6 @@
+interface:
+  display_name: "Finance Units + Timespan Normalizer"
+  short_description: "Normalize finance table units and windows"
+  icon_small: "./assets/finance-normalizer-small.svg"
+  icon_large: "./assets/finance-normalizer.png"
+  default_prompt: "Use $finance-units-timespan-normalizer to normalize this finance table into canonical long-form CSV output with notes."

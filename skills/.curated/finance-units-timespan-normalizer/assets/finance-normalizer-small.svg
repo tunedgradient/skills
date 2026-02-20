@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Finance normalizer icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f4c5c"/>
+      <stop offset="100%" stop-color="#1f7a8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="72" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity="0.9">
+    <rect x="80" y="214" width="38" height="98" rx="8"/>
+    <rect x="142" y="176" width="38" height="136" rx="8"/>
+    <rect x="204" y="132" width="38" height="180" rx="8"/>
+    <rect x="266" y="96" width="38" height="216" rx="8"/>
+  </g>
+  <path d="M189 96h70" stroke="#ffd166" stroke-width="14" stroke-linecap="round"/>
+  <text x="145" y="178" fill="#ffd166" font-size="112" font-family="Arial, sans-serif" font-weight="700">$</text>
+</svg>
